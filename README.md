@@ -1,2 +1,2 @@
 # Python-projects 
-These are the python projects repistory i am creating to addd python projects 
+These are the python projects repistory i am creating to add python projects 
